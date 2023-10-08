@@ -1,0 +1,35 @@
+{
+  "$schema": null,
+  "metadata": {
+    
+  },
+  "events": [
+    {
+      "name": {
+        "ja": "理系集会"
+      },
+      "twitter": "1468541899644747778",
+      "schedules": [
+        {
+          "periodic": {
+            "month": "every",
+            "day": {
+              "ordinal": "last",
+              "weekday": "friday"
+            },
+            "start": {
+              "hour": 22,
+              "minute": 00,
+              "tz": {
+                "hour": -9,
+                "minute": 0
+              }
+            },
+            "end": null,
+            "platform": "vrchat"
+          }
+        }
+      ]
+    }
+  ]
+}
