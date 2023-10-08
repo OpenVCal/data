@@ -19,7 +19,7 @@
             },
             "start": {
               "hour": 22,
-              "minute": 00,
+              "minute": 0,
               "tz": {
                 "hour": -9,
                 "minute": 0
